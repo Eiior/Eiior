@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 
 
 ![UFO](https://penger.city/museum/pengers/UFP.gif)
 
