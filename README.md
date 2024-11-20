@@ -4,15 +4,14 @@ I enjoy skiing ~ <img src="https://intechacademy.org/wp-content/uploads/2023/01/
 
 
 ## Some languages I use
-#### <u>Web</u>
+#### Web
 [![Web](https://skillicons.dev/icons?i=html,css,php)](https://skillicons.dev)
 
-#### <u>Scripting/Programmation</u>
+#### Scripting/Programmation
 [![Script/Prog](https://skillicons.dev/icons?i=c,bash,py,java)](https://skillicons.dev)
 
-#### <u>For later</u>
+#### Would like for later
 [![Script/Prog](https://skillicons.dev/icons?i=ruby)](https://skillicons.dev)
-
 
 
 ## Insane websites
@@ -26,6 +25,8 @@ I enjoy skiing ~ <img src="https://intechacademy.org/wp-content/uploads/2023/01/
 </div>
 
 ---
-<img src="https://i.redd.it/qx5ha1lkh6n21.gif" height=250 >
-<img src="https://i.pinimg.com/originals/64/f3/62/64f36281674361ccff49c01135001ce8.gif" height=250 >
-<img src="https://i.redd.it/fxrfze5txh971.gif" height=200 >
+<div style="display: flex; flex-wrap: wrap; justify-content: left;">
+  <img src="https://i.redd.it/qx5ha1lkh6n21.gif" height=250 >
+  <img src="https://i.pinimg.com/originals/64/f3/62/64f36281674361ccff49c01135001ce8.gif" height=250 >
+  <img src="https://i.redd.it/fxrfze5txh971.gif" height=200 >
+</div>
