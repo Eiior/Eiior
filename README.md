@@ -28,5 +28,5 @@ I enjoy skiing ~ <img src="https://intechacademy.org/wp-content/uploads/2023/01/
 <div style="display: flex; flex-wrap: wrap; justify-content: left;">
   <img src="https://i.redd.it/qx5ha1lkh6n21.gif" height=250 >
   <img src="https://i.pinimg.com/originals/64/f3/62/64f36281674361ccff49c01135001ce8.gif" height=250 >
-  <img src="https://i.redd.it/fxrfze5txh971.gif" height=200 >
+  <img src="https://i.redd.it/fxrfze5txh971.gif" height=250 >
 </div>
